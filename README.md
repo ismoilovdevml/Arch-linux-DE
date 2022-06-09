@@ -3,7 +3,7 @@
 <br>
 <p align="center"> <b> Asosiy va eng ko'p ishlatiladigan DE lar haqida yozilgan </b> </p>
 <br>
-## GNOME DE o'rnatish
+
 <h1 align="center"> GNOME DE o'rnatish</h1>
 <p align="center"> <img src="https://github.com/ismoilovdevml/Arch-linux-DE/blob/master/Pictures/gnome.png"/> </p>
 <br>
