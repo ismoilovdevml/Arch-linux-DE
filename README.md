@@ -1,11 +1,11 @@
 <h1 align="center"> Arch Linuxga DE (Desktop Environment) bo'yicha qo'llanma </h1>
-<p align="center"> <img src="https://github.com/ismoilovdevml/Archlinux-DE/Pictures/de.jpg"/> </p>
+<p align="center"> <img src="https://github.com/ismoilovdevml/Arch-linux-DE/blob/master/Pictures/DE.jpg"/> </p>
 <br>
 <p align="center"> <b> Asosiy va eng ko'p ishlatiladigan DE lar haqida yozilgan </b> </p>
 <br>
 ## GNOME DE o'rnatish
 <h1 align="center"> GNOME DE o'rnatish</h1>
-<p align="center"> <img src="https://github.com/ismoilovdevml/Archlinux-DE/Pictures/gnome.png"/> </p>
+<p align="center"> <img src="https://github.com/ismoilovdevml/Arch-linux-DE/blob/master/Pictures/gnome.png"/> </p>
 <br>
 GNOME DE haqida batafsil
 GNOME DE You Tube tavsif
@@ -32,7 +32,7 @@ Tabriklayman Sizda `GNOME DE` o'rnatildi
 
 ## XFCE DE o'rnatish
 <h1 align="center"> XFCE DE o'rnatish </h1>
-<p align="center"> <img src="https://github.com/ismoilovdevml/Archlinux-DE/Pictures/xfce.png"/> </p>
+<p align="center"> <img src="https://github.com/ismoilovdevml/Arch-linux-DE/blob/master/Pictures/xfce.png"/> </p>
 <br>
 XFCE DE haqida batafsil
 XFCE DE You Tube tavsif
@@ -60,7 +60,7 @@ Tabriklayman Sizda `XFCE DE` o'rnatildi
 
 ## KDE DE o'rnatish
 <h1 align="center"> KDE DE o'rnatish </h1>
-<p align="center"> <img src="https://github.com/ismoilovdevml/Archlinux-DE/Pictures/kde.jpg"/> </p>
+<p align="center"> <img src="https://github.com/ismoilovdevml/Arch-linux-DE/blob/master/Pictures/kde.jpg"/> </p>
 <br>
 KDE DE haqida batafsil
 KDE DE You Tube tavsif
@@ -97,7 +97,7 @@ Tabriklayman Sizda `KDE DE` o'rnatildi
 
 ## MATE DE o'rnatish
 <h1 align="center"> MATE DE o'rnatish </h1>
-<p align="center"> <img src="https://github.com/ismoilovdevml/Archlinux-DE/Pictures/mate.png"/> </p>
+<p align="center"> <img src="https://github.com/ismoilovdevml/Arch-linux-DE/blob/master/Pictures/mate.png"/> </p>
 <br>
 MATE DE haqida batafsil
 MATE DE You Tube tavsif
@@ -132,7 +132,7 @@ Tabriklayman Sizda MATE DE o'rnatildi
 
 ## Deepin Desktop Environment `DDE` o'rnatish
 <h1 align="center"> Deepin Desktop Environment `DDE` o'rnatish </h1>
-<p align="center"> <img src="https://github.com/ismoilovdevml/Archlinux-DE/Pictures/deepin.jpg"/> </p>
+<p align="center"> <img src="https://github.com/ismoilovdevml/Arch-linux-DE/blob/master/Pictures/deepin.jpg"/> </p>
 <br>
 Deepin Desktop Environment DDE haqida batafsil
 Deepin Desktop Environment DDE You Tube tavsif
@@ -165,7 +165,7 @@ Tabriklayman Sizda Deepin Desktop Environment `DDE` o'rnatildi
 
 ## Cinnamon DE o'rnatish
 <h1 align="center"> Cinnamon DE o'rnatish </h1>
-<p align="center"> <img src="https://github.com/ismoilovdevml/Archlinux-DE/Pictures/cinnamon.jpg"/> </p>
+<p align="center"> <img src="https://github.com/ismoilovdevml/Arch-linux-DE/blob/master/Pictures/cinnamon.jpg"/> </p>
 <br>
 Cinnamon DE haqida batafsil
 Cinnamon DE You Tube tavsif
